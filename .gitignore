@@ -1,0 +1,5 @@
+~$*
+_check*.png
+src/
+demo_output.txt
+__pycache__/
